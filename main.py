@@ -1,11 +1,13 @@
-print(1)
-print(2)
+print('Hi!')
+print('Hi!')
 
 
 def main():
-    pass
+    print('New feature text')
+
+    return 2 ** 2
 
 
 if __name__ == '__main__':
-    main()
+    main()  # просто рандомний коментар
 

@@ -1,11 +1,13 @@
-print(1)
-print(2)
+print('Qwerty')
+print('Qwerty')
 
-
+# ще коментар
 def main():
-    pass
+    print('It`s main content!') # привіт!
+
+    return None
 
 
 if __name__ == '__main__':
-    main()
+    main()  # якийсь інший коментар
 

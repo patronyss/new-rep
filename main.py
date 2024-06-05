@@ -1,13 +1,13 @@
 print('Qwerty')
-print('Qwerty')
+print('Hi!')
 
 # ще коментар
 def main():
-    print('It`s main content!') # привіт!
+    print('New feature text')
 
-    return None
+    return 2 ** 2
 
 
 if __name__ == '__main__':
-    main()  # якийсь інший коментар
+    main()  # якийсь інший коментар просто рандомний коментар
 
